@@ -1,2 +1,2 @@
 # wordcount
-This is small django project for count all words in paragraph.
+This is small django project for count all words in Paragraph.
